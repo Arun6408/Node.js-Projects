@@ -45,7 +45,7 @@ The Jobs API offers a comprehensive solution for job management, focusing on use
 ### Setup
 For each project, please refer to the respective README files for detailed setup instructions. These files provide step-by-step guidance to help you get the projects up and running smoothly.
 
-- [Task Manager](task-manager/README.md)
-- [Store API](store-api/README.md)
-- [Login Portal](login-portal/README.md)
-- [Jobs API](jobs-api/README.md)
+- [Task Manager](/task-manager/README.md)
+- [Store API](/store-api/README.md)
+- [Login Portal](/login-portal/README.md)
+- [Jobs API](/jobs-api/README.md)
