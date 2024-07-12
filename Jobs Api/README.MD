@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The **Jobs API** is a robust backend solution focused exclusively on managing job postings and user authentication, without any front-end components. This project aims to create a secure, scalable, and efficient API that supports user registration, login, and comprehensive job management functionalities. By employing a RESTful architecture and implementing JWT for authentication, this API ensures a high level of security and data integrity.
+The **Jobs API** is a robust backend solution focused exclusively on managing job postings and user authentication. This project aims to create a secure, scalable, and efficient API that supports user registration, login, and comprehensive job management functionalities. By employing a RESTful architecture and implementing JWT for authentication, this API ensures a high level of security and data integrity.
 
 ### Purpose and Goals
 
