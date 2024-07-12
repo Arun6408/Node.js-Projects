@@ -89,9 +89,9 @@ To set up the Jobs API on your local machine, follow these steps:
   PORT=5000
   JWT_SECRET=your_secret_key_here
   JWT_LIFETIME=1h
+  ```
 
-
-   Start your Project:
+   ##Start your Project:
    ```bash 
    npm start
    ```
