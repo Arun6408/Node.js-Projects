@@ -27,13 +27,13 @@ After a successful login, users receive a token that is essential for accessing 
 
 ### 1. Login Route
 
-- **Endpoint:** `http://localhost:{port number from .env}/api/v1/login/`
+- **Endpoint:** `http://localhost:{port}/api/v1/login/`
 - **Method:** POST
 - **Description:** Processes user login requests and issues an authentication token upon success.
 
 ### 2. Dashboard Route
 
-- **Endpoint:** `http://localhost:{port number from .env}/api/v1/dashboard/`
+- **Endpoint:** `http://localhost:{port}/api/v1/dashboard/`
 - **Method:** POST
 - **Description:** Requires a valid token to access and retrieves data for the user's dashboard.
 
@@ -41,12 +41,12 @@ After a successful login, users receive a token that is essential for accessing 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone 
    ```
    
 2. Navigate to the project directory:
    ```bash
-   cd <project-directory>
+   cd ./Login%20Portal
    ```
 
 3. Install dependencies:
@@ -66,20 +66,9 @@ After a successful login, users receive a token that is essential for accessing 
 
 ## Usage
 
-1. Open your browser and navigate to `http://localhost:{port number from .env}/index.html`.
+1. Open your browser and navigate to `http://localhost:{port}/index.html`.
 2. Enter your credentials to log in.
 3. Upon successful login, you will receive a token.
-4. Use this token to access the dashboard at `http://localhost:{port number from .env}/api/v1/dashboard/`.
+4. Use this token to access the dashboard to get your data.
 
-## Contributing
 
-If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgments
-
-- [Your Tech Stack or Libraries Used]
-- [Any contributors or resources that helped you]
