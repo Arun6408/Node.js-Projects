@@ -45,7 +45,7 @@ The Jobs API offers a comprehensive solution for job management, focusing on use
 ### Setup
 For each project, please refer to the respective README files for detailed setup instructions. These files provide step-by-step guidance to help you get the projects up and running smoothly.
 
-- [Task Manager](/task-manager/README.md)
-- [Store API](/store-api/README.md)
-- [Login Portal](/login-portal/README.md)
-- [Jobs API](https://github.com/Arun6408/Node.js-Projects/blob/main/Jobs%20Api/README.MD)
+- [Task Manager](https://github.com/Arun6408/Node.js-Projects/tree/main/Task%20Manager)
+- [Store API](https://github.com/Arun6408/Node.js-Projects/tree/main/Store%20Api)
+- [Login Portal](https://github.com/Arun6408/Node.js-Projects/tree/main/Login%20Portal)
+- [Jobs API](https://github.com/Arun6408/Node.js-Projects/blob/main/Jobs%20Api)
