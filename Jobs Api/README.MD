@@ -19,44 +19,6 @@ The primary purpose of this API is to streamline job management processes for us
 - **RESTful Design:** Adherence to REST principles for clean and maintainable code, making it easy to extend and modify the API in the future.
 - **Error Handling:** Comprehensive error handling to provide meaningful responses and improve the user experience.
 
-### **Login Routes**
-
-- **Login:**  
-  `POST http://localhost:{port}/api/v1/auth/login/`  
-  *Authenticate users and provide access tokens.*
-
-- **Register:**  
-  `POST http://localhost:{port}/api/v1/auth/register/`  
-  *Create new user accounts securely.*
-
-### **Authentication**
-
-To access job routes, a Bearer token must be included in the headers. Ensure you set up your token correctly before attempting to access these routes. This token is essential for maintaining session integrity and user authentication throughout the API.
-
-### **Job Routes**
-
-- **Get All Jobs:**  
-  `GET http://localhost:{port}/api/v1/jobs/`  
-  *Retrieve all job listings associated with the authenticated user.*
-
-- **Create a Job:**  
-  `POST http://localhost:{port}/api/v1/jobs/`  
-  *Submit a new job listing for the database.*
-
-- **Get Job by ID:**  
-  `GET http://localhost:{port}/api/v1/jobs/:id`  
-  *Retrieve details of a specific job using its unique ID.*
-
-- **Update Job by ID:**  
-  `PUT http://localhost:{port}/api/v1/jobs/:id`  
-  *Modify the details of a specific job.*
-
-- **Delete Job by ID:**  
-  `DELETE http://localhost:{port}/api/v1/jobs/:id`  
-  *Remove a job listing from the database.*
-
----
-
 ## Project Setup
 
 To set up the Jobs API on your local machine, follow these steps:
@@ -95,3 +57,44 @@ To set up the Jobs API on your local machine, follow these steps:
    ```bash 
    npm start
    ```
+
+
+
+### **Login Routes**
+
+- **Login:**  
+  `POST http://localhost:{port}/api/v1/auth/login/`  
+  *Authenticate users and provide access tokens.*
+
+- **Register:**  
+  `POST http://localhost:{port}/api/v1/auth/register/`  
+  *Create new user accounts securely.*
+
+### **Authentication**
+
+To access job routes, a Bearer token must be included in the headers. Ensure you set up your token correctly before attempting to access these routes. This token is essential for maintaining session integrity and user authentication throughout the API.
+
+### **Job Routes**
+
+- **Get All Jobs:**  
+  `GET http://localhost:{port}/api/v1/jobs/`  
+  *Retrieve all job listings associated with the authenticated user.*
+
+- **Create a Job:**  
+  `POST http://localhost:{port}/api/v1/jobs/`  
+  *Submit a new job listing for the database.*
+
+- **Get Job by ID:**  
+  `GET http://localhost:{port}/api/v1/jobs/:id`  
+  *Retrieve details of a specific job using its unique ID.*
+
+- **Update Job by ID:**  
+  `PUT http://localhost:{port}/api/v1/jobs/:id`  
+  *Modify the details of a specific job.*
+
+- **Delete Job by ID:**  
+  `DELETE http://localhost:{port}/api/v1/jobs/:id`  
+  *Remove a job listing from the database.*
+
+---
+
