@@ -48,4 +48,4 @@ For each project, please refer to the respective README files for detailed setup
 - [Task Manager](/task-manager/README.md)
 - [Store API](/store-api/README.md)
 - [Login Portal](/login-portal/README.md)
-- [Jobs API](/blob/main/Jobs%20Api/README.MD)
+- [Jobs API](https://github.com/Arun6408/Node.js-Projects/blob/main/Jobs%20Api/README.MD)
