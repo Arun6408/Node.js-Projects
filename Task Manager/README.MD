@@ -55,12 +55,12 @@ The following routes are available for managing tasks:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Arun6408/Node.js-Projects/edit/main/Task%20Manager
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd <project-directory>
+   cd ./Task%20Manager
    ```
 
 3. Install dependencies:
@@ -83,15 +83,3 @@ The following routes are available for managing tasks:
 1. Open your browser and navigate to `http://localhost:{port}/index.html`.
 2. Use the application to create, view, update, and delete tasks as needed.
 
-## Contributing
-
-If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgments
-
-- [Your Tech Stack or Libraries Used]
-- [Any contributors or resources that helped you]
