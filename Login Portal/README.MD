@@ -9,7 +9,7 @@ This project is a comprehensive Login Portal designed for user authentication an
 The frontend is hosted at:
 
 ```
-http://localhost:{port number from .env}/index.html
+http://localhost:{port}/index.html
 ```
 
 ### Features
