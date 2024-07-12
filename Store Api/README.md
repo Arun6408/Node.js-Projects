@@ -32,19 +32,19 @@ You can apply the following filters as query parameters:
 To retrieve products with specific filters, you can structure your query like this:
 
 ```
-http://localhost:{port number from .env}/api/v1/products?featured=true&company=xyz&sort=price&field=name,price&numericFilters=price[>100]
+http://localhost:{port}/api/v1/products?featured=true&company=xyz&sort=price&field=name,price&numericFilters=price[>100]
 ```
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Arun6408/Node.js-Projects/edit/main/Store%20Api
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd <project-directory>
+   cd ./Store%20Api
    ```
 
 3. Install dependencies:
