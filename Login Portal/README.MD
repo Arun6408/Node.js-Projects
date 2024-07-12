@@ -57,6 +57,7 @@ After a successful login, users receive a token that is essential for accessing 
 4. Set up environment variables in a `.env` file:
    ```env
    PORT=<your-port-number>
+   JWT_SECRET= <your-jwt-secret>
    ```
 
 5. Start the server:
