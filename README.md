@@ -2,6 +2,14 @@
 
 I have developed several backend projects showcasing my expertise in building robust and secure APIs. My work includes advanced features like JWT authentication, complex filtering, and personalized data management. Each project highlights different aspects of backend development, from task management to secure user authentication.
 
+## Projects
+
+1. [Task Manager](#task-manager)
+2. [Store API](#store-api)
+3. [Login Portal](#login-portal)
+4. [Jobs API](#jobs-api)
+
+
 ### Task Manager
 A comprehensive task management API that allows users to create, read, update, and delete tasks efficiently. Built with robust error handling and validation to ensure data integrity.
 
@@ -16,3 +24,8 @@ An API designed to manage job postings and applications with JWT authentication.
 
 ### Setup
 For each project, please refer to the respective README files for detailed setup instructions. These files provide step-by-step guidance to help you get the projects up and running smoothly.
+
+- [Task Manager](path/to/task-manager/README.md)
+- [Store API](path/to/store-api/README.md)
+- [Login Portal](path/to/login-portal/README.md)
+- [Jobs API](path/to/jobs-api/README.md)
